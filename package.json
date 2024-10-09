@@ -21,7 +21,7 @@
     "upstash-redis-level": "^1.1.1"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.5.52",
+    "@tinacms/cli": "^1.6.9",
     "@types/node": "^22.1.0",
     "eslint": "^9.8.0",
     "eslint-config-next": "^14.2.5"
